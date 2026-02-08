@@ -10,7 +10,7 @@
 
 ## ✨ Highlights
 
-- **Paper (LaTeX)**: *Minimum‑Description‑Length Training with Natural‑Log Curvature Penalty*  
+- **Paper (LaTeX)**: *Minimum‑Description‑Length Training with Natural‑Log Curvature Penalty* (working on it, beta version)
   (ReLU by default, Sine for smooth fields; exact loss with `ln(det(I+H))`, batch‑surrogate with `ln(1+2||ĝ||²)`.)
 - **Code (PyTorch)**: Sine‑MLP regression — compare **baseline MSE** vs **MDL batch surrogate** on a noisy `sin + sin` target; test code of the robustness of a limit estimator
 - **Maths**: curated exercises/solutions and notes; currently only contains RMS corrections.
